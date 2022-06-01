@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I am Himanshu Srivastava, a software engineer by choice. I am an IIT graduate and have more than 11 years of industry experience.
+I am Himanshu Srivastava, a software engineer by choice.
 
-- I am a Full Stack Developer.
-- I’m currently working as a freelancer and also building my SaaS company.
+## About
+- An IIT graduate with more than 11 years of industry experience.
+- Full Stack Developer.
+- Currently working as a freelancer and also building my SaaS company.
 - How to reach me: Book a meeting with me on [calendly](https://calendly.com/himanshu-srivastava/30min).
 
-Areas of Interest: Backend, AWS, Database, and Frontend.
+## Areas of Interest: Backend, AWS, Database, and Frontend.
 
 - Back-End Development: Python | Django | Django Rest Framework
 - Database Development: PostgreSQL | MySQL | SQLite | MS Access
