@@ -13,7 +13,7 @@ Areas of Interest: Backend, AWS, Database, and Frontend.
 - Back-End Development: Python | Django | Django Rest Framework
 - Database Development: PostgreSQL | MySQL | SQLite | MS Access
 - Cloud: AWS | Heroku
-- Routing and Load Balancing: Nginx Server
+- Nginx Server, GitHub Actions
 
 <!--
 **himansrivastava/himansrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
