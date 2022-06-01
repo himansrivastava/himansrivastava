@@ -9,7 +9,7 @@ I am Himanshu Srivastava, a software engineer by choice.
 - How to reach me: Book a meeting with me on [calendly](https://calendly.com/himanshu-srivastava/30min).
 - Need to convert your idea into a scalable web app? Book a [Project on UpWork](https://www.upwork.com/services/product/a-full-stack-web-application-hosted-on-aws-full-stack-developer-1522113902825410560).
 
-## Areas of Interest: Backend, AWS, Database, and Frontend.
+## Areas of Interest: Backend, AWS, Database, and Frontend
 
 - Back-End Development: Python | Django | Django Rest Framework
 - Database Development: PostgreSQL | MySQL | SQLite | MS Access
