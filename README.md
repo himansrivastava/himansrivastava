@@ -3,7 +3,7 @@
 I am Himanshu Srivastava, a software engineer by choice. I am an IIT graduate and have more than 11 years of industry experience.
 
 
-- ⚡ My Story: I worked for more than 11 years for an Indian government company. It was a very stable job. But all I really wanted with life was not a stable job, but to build something beautiful. So, I quit my high paying stable job to build my own startup.
+- ⚡ My Story: I worked for more than 11 years for an Indian government company. It was a very stable job. But all I really wanted with life was not a stable job, but to build something beautiful. So, I finally decide to quit my job and focus full time on building my startup.
 - 🔭 I’m currently working as a freelancer and also building my SaaS company.
 - 📫 How to reach me: drop me a messaage on [twitter](https://twitter.com/himansrivas) or an email at himansrivastava@gmail.com
 
