@@ -4,7 +4,7 @@ I am Himanshu Srivastava, a software engineer by choice. I am an IIT graduate an
 
 - I am a Full Stack Developer.
 - I’m currently working as a freelancer and also building my SaaS company.
-- How to reach me: Book a meeting with me on [calendly] (https://calendly.com/himanshu-srivastava/30min).
+- How to reach me: Book a meeting with me on [calendly](https://calendly.com/himanshu-srivastava/30min).
 
 Areas of Interest: Backend, AWS, Database, and Frontend.
 
