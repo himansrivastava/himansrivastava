@@ -5,7 +5,6 @@ I am Himanshu Srivastava, a software engineer by choice.
 ## About
 - An IIT graduate with more than 12 years of industry experience.
 - Full Stack Developer.
-- Currently working as CTO at an EdTech Startup.
 
 ## Areas of Interest: Backend, AWS, Database, and Frontend
 
