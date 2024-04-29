@@ -3,29 +3,16 @@
 I am Himanshu Srivastava, a software engineer by choice.
 
 ## About
-- An IIT graduate with more than 12 years of industry experience.
+- An IIT graduate with more than 14 years of industry experience.
 - Full Stack Developer.
 
-## Areas of Interest: Backend, AWS, Database, and Frontend
+## Areas of Interest: LLM | Backend | AWS | Database | Frontend
 
-- Back-End Development: Python | Django | Django Rest Framework
-- Database Development: PostgreSQL | MySQL | SQLite | MS Access
-- Cloud: AWS | Heroku
-- Nginx Server, GitHub Actions
+- LLM: Open AI | Assistant API | Claude AI | Gemini | Open Source LLMs | Llama | Retrival Augmented Generation | AI Agent
+- Back-End Development: Python | Django | Django Rest Framework | Fast API | Nginx | Flask | Celery
+- SQL Database: PostgreSQL | MySQL | SQLite | MS Access
+- NoSQL / Vector Database: MongoDb | Chromadb | Pinecone | Qdrant | Redis
+- Cloud: AWS | Azure| GCP
+- DevOps: GitHub Actions | Docker | Kubernetes | Grafana | Prometheus | Loki
 - Front-End Web Development : React.js | jQuery | Html5 | CSS3 | Bootstrap | Javascript | Ajax
-
-<!--
-**himansrivastava/himansrivastava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
