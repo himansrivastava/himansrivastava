@@ -3,7 +3,7 @@
 I am Himanshu Srivastava, a software engineer by choice.
 
 ## About
-- An IIT graduate with more than 14 years of industry experience.
+- An IIT graduate with close to 14 years of industry experience.
 - Full Stack Developer.
 
 ## Areas of Interest: LLM | Backend | AWS | Database | Frontend
